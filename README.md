@@ -50,7 +50,7 @@
 
 --> Splitting the data into training and testing (80:20)%
 
---> Create and Training the Linear Regression model
+--> Create and Training the Logistic Regression model
 
 ![image](https://user-images.githubusercontent.com/118778677/224546961-f781b8cd-162e-451c-a732-518c91d9a96c.png)
 
